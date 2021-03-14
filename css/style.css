@@ -108,13 +108,13 @@ footer p {
     position:absolute;
     filter: drop-shadow(2px 2px);
     width: 150px ;
-    left: 1050px;
+    left: 950px;
     bottom: 180px;
 }
 
 .w1 {
     display: inline-block;
-    background-color:aquamarine;
+    
     padding: 20px;
     width: 350px;
     height: 5px;
@@ -132,8 +132,10 @@ footer p {
     bottom: 250px;
     padding: 2px;
     width: 100%;
-    left: 500px;
+    left: 350px;
 }
-img {
-    margin: auto;
+
+.w1 img {
+    margin-left: -100px;
+    border-radius: 25px;
 }

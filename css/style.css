@@ -1,42 +1,52 @@
 .myDiv {
     display: inline-block;
 }
+p{
+    color:black;
 
+}
 nav {
-    background-color:white;
+    width: 800px;
+    background-color: white;
     display: inline-block;
     vertical-align: top;
-    padding-left: 850px;
-}
-
-ul {
-    display: inline-block;
-    width: 50%;
-    
+    text-align: right;
+    padding: 18px;
 }
 
 li {
     display: inline-block;
+    padding: 20px;
+}
+
+.hero {
+    display: inline-block;
+    background-color:white;
+    padding: 20px;
+    width: 350px;
+    height: 5px;
+    color: white;
 }
 
 .heroimg {
     height: 600px;
-    padding: 25px;
-    
+    padding: 15px;
 }
 
-.content {
-    width: 500px;
-    margin: 0 auto;
+#content {
+    background-color: white;
+    width: 1000px;
+}
 
+.intro {
+    display: inline-block;
 }
 
 footer {
-    
-    background-color: #373738 ;
-    
+    background-color: #373738;
 }
+
 .pFooter {
     color: white;
-
 }
+
